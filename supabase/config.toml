@@ -1,0 +1,10 @@
+project_id = "hmbywcikfelbqeaajkpo"
+
+[functions.chat]
+verify_jwt = false
+
+[functions.chat-ws]
+verify_jwt = false
+
+[functions.cleanup-sessions]
+verify_jwt = false
